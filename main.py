@@ -1,2 +1,2 @@
 print("hello world")
-print("idiot")
+print("try again")
